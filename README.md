@@ -24,18 +24,20 @@ I am a backend-focused software engineer and computer science graduate from the 
 
 ## Projects & Technical Work
 
+### [Game Library App](https://github.com/IvanIsaev-12/Game-Library)
+* Full-stack personal video game library web application with user registration, BCrypt password hashing, and JWT-authenticated CRUD operations for managing games
+* Built the backend using **Java, Spring Boot, Spring Security, Spring Data JPA/Hibernate, and PostgreSQL** (collaborating with frontend developer Balázs Dézsenyi on a React, Material UI, and TanStack Query frontend)
+
+### [Next.js UI Component Library](https://github.com/IvanIsaev-12/UI-Component-Library)
+* BSc thesis project at the University of Pécs featuring **25 reusable, WCAG 2.1 AA-accessible components** structured in a **Turborepo** monorepo with Storybook documentation and automated Vitest / `jest-axe` testing
+* Built with **React 19, Next.js 15, TypeScript, Tailwind CSS 4.0, and Radix UI**, with live Storybook docs and an npm package (`@ui-component-lib/ui`)
+
 ### VOTE 2 – Microsoft Teams Integration (Technical Integration Design)
 *Deutsche Telekom Excellence Center | Oct 2025 – Dec 2025*
 * Designed the technical strategy for integrating the VOTE 2 API into the Microsoft Teams app ecosystem
 * Analysed API endpoints, authentication flows, and collaboration-tooling requirements to define the integration architecture
 
-### Building Component Libraries for Next.js (BSc Thesis)
-*University of Pécs | 2026*
-* Researched and built a reusable UI component library for Next.js
-* Thesis graded **Excellent** by both reviewers
-
-*(Note: Proprietary or internal materials from employer or partner engagements are omitted; architectural notes, demos, or public code repositories can be linked here as appropriate.)*
-
+*(Note: Proprietary or internal materials from employer or partner engagements are omitted.)*
 ---
 
 ## Education
